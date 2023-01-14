@@ -1,0 +1,11 @@
+pip3 install numpy
+pip3 install opencv-python
+pip3 install django-cronjobs
+pip3 install django-crontab
+
+
+refernce for cron jobs
+https://gutsytechster.wordpress.com/2019/06/24/how-to-setup-a-cron-job-in-django/#:~:text=Steps%20to%20setup%20a%20cron%20job%20in%20Django&text=Create%20a%20file%20anywhere%20within,will%20be%20your%20cron%20job.&text=We%20define%20a%20cron%20just%20as%20above.
+
+to add cronjobs
+python manage.py crontab add
