@@ -1,0 +1,2 @@
+1) imported file.json into a mysql table using db->table-> right click get import wizard and give file name
+//https://docs.devart.com/studio-for-mysql/exporting-and-importing-data/json-import.html
